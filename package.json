@@ -1,6 +1,9 @@
 {
   "name": "radium",
   "version": "1.0.0",
+  "engines": {
+    "node": "6.13.0"
+  },
   "description": "repository for backend cohort - Radium",
   "main": "index.js",
   "scripts": {
